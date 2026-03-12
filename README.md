@@ -7,7 +7,7 @@
 
 ```bash
 # 1. Clone atau upload project ke server
-git clone https://github.com/yourrepo/nexaisp /tmp/nexaisp-src
+git clone https://github.com/Ikomangarta/billing /tmp/nexaisp-src
 
 # 2. Jalankan installer (sebagai root)
 sudo bash installer/install.sh
